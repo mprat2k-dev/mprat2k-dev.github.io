@@ -24,6 +24,13 @@ Personal/Professional blog (Under Construction)
 
 
 
-                                                                                                       
+# Tales of Engineering
+## Accela
+- A suspicious flag
+- Loop De Loop
                                                                                                
                                                                                                
+# Creative Works
+
+# Musings
+- Third Places
