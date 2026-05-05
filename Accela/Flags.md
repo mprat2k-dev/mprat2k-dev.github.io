@@ -1,3 +1,7 @@
+layout: page
+title: "A suspicious flag"
+permalink: /Accela/flags
+
 # A suspicious Flag
 
 Accela isa recordkeeping system with a few... quirks. One of these are its multiple proprietary scripting frameworks and no-code solutions. these are fine so long as  you don't customize them too much. But of course, $BIG_AGENCY constumized the absoute *CRAP* out of it. This has led to some... creative fixes.
