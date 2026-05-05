@@ -26,7 +26,7 @@ Personal/Professional blog (Under Construction)
 
 # Tales of Engineering
 ## Accela
-- A suspicious flag
+- [A suspicious flag]({% link /Accela/Flag %})
 - Loop De Loop
                                                                                                
                                                                                                
